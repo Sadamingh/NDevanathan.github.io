@@ -1,6 +1,6 @@
-![Build Status](https://travis-ci.com/cs107e/staff.svg?token=BftLM4kSr1QfgPspi6aF&branch=master) [Travis](https://travis-ci.com/cs107e/staff)
+This site/repo is a clone of the Stanford CS 107E GitHub site with every assignment open.
 
-This site is hosted at <https://cs107e.github.io/>.
+This site is hosted at ndevanathan.github.io.
 
 To test locally:
 
